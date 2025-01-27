@@ -37,18 +37,21 @@
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
