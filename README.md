@@ -54,4 +54,12 @@
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
