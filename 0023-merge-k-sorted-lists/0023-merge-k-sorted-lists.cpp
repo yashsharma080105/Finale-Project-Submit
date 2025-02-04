@@ -1,38 +1,32 @@
 
 class Solution {
 public:
-        ListNode* merge(ListNode* a, ListNode* b) {
-                //SC = O(n)  TC = O(nlogn)
-                ListNode* c = new ListNode(100);
-                ListNode* temp = c;
-                while(a!=NULL && b!=NULL){
-                    if(a->val<=b->val){
-                        temp->next =a;  //connect c with a
-                        a = a->next;
-                        temp = temp->next;
+        ListNode *mergeKLists(vector<ListNode *> &lists) {
+    if(lists.empty()){
+        return nullptr;
+    }
+    while(lists.size() > 1){
+        lists.push_back(mergeTwoLists(lists[0], lists[1]));
+        lists.erase(lists.begin());
+        lists.erase(lists.begin());
+    }
+    return lists.front();
+}
+ListNode *mergeTwoLists(ListNode *l1, ListNode *l2) {
+    if(l1 == nullptr){
+        return l2;
+    }
+    if(l2 == nullptr){
+        return l1;
+    }
+    if(l1->val <= l2->val){
+        l1->next = mergeTwoLists(l1->next, l2);
+        return l1;
+    }
+    else{
+        l2->next = mergeTwoLists(l1, l2->next);
+        return l2;
+    }
 
-                    }
-                    else{
-                        temp->next = b;
-                        b  = b->next;
-                        temp = temp->next;
-
-                    }
-                }
-                if(a==NULL) temp->next= b;
-                else temp->next = a;
-                return c->next;
-        }
-            ListNode* mergeKLists(vector<ListNode*>& arr) {
-        if(arr.size()==0)  return NULL;
-        while(arr.size()>1){
-            ListNode* a = arr[0];
-            arr.erase(arr.begin());
-            ListNode* b = arr[0];
-            arr.erase(arr.begin());
-            ListNode*c = merge(a,b);
-            arr.push_back(c);
-        }
-        return arr[0];
     }
 };
