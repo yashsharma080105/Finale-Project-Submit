@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-        ListNode *mergeKLists(vector<ListNode *> &lists) {
+    ListNode *mergeKLists(vector<ListNode *> &lists) {
     if(lists.empty()){
         return nullptr;
     }
@@ -27,6 +27,8 @@ ListNode *mergeTwoLists(ListNode *l1, ListNode *l2) {
         l2->next = mergeTwoLists(l1, l2->next);
         return l2;
     }
-
-    }
+}    
+        
+        
+    
 };
