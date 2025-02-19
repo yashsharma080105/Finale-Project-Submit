@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
