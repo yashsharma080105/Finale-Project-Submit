@@ -1,28 +1,42 @@
 class MinStack {
 public:
-    vector<int> v;
+    stack<long long > st;
+    long long min;
     MinStack() {  // constructor
-        
+        min = LLONG_MAX;
     }
     
-    void push(int val) {  //O(1)
-        v.push_back(val);
+    void push(int  val) {  //O(1)
+        long long x = (long long )val;
+       if(st.size()==0){
+        st.push(x);
+        min = x;
+       }
+       else if(x>=min) st.push(x);
+       else{  // val<min
+            st.push(2*x-min);
+            min = x;
+       }
+
     }
     
     void pop() {  // O(1)
-        v.pop_back();
+        if(st.top()<min){  //  A fake value is present
+        // before popping make sure to retrieve the old min
+            long long  oldMin = 2*min - st.top();
+            min = oldMin;
+        }
+        st.pop();
     }
     
     int top() {  // O(1)
-        return v[v.size()-1];
+        if(st.top()<min) return (int)min;
+        else return (int)st.top();
+        
     }
     
-    int getMin() {
-        int mn = v[0];
-        for(int i=1;i<v.size();i++){
-            mn = min(mn,v[i]);
-        } 
-        return mn;
+    long long  getMin() {  // O(1)
+       return (int)min;  
     }
 };
 
