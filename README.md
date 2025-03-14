@@ -160,4 +160,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
