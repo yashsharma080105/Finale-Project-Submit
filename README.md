@@ -24,6 +24,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
@@ -65,6 +67,7 @@
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -84,6 +87,7 @@
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
