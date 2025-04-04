@@ -31,6 +31,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0141-linked-list-cycle) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0155-min-stack) |
@@ -165,6 +168,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Sliding Window
@@ -193,4 +197,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
