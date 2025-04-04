@@ -30,6 +30,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0141-linked-list-cycle) |
@@ -62,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
