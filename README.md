@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -16,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
