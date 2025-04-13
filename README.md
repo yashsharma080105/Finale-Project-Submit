@@ -133,6 +133,7 @@
 | [0203-remove-linked-list-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,12 +201,18 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
