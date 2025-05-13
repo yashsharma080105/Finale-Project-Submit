@@ -167,6 +167,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -227,4 +228,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
