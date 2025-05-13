@@ -1,21 +1,16 @@
 
 class Solution {
 public:
-    int levels(TreeNode* root){
-        if(root==NULL) return 0;
-        return 1 + max(levels(root->left),levels(root->right));
-
-    }
-    void helper(TreeNode* root, int &maxDia){
-        if(root==NULL) return;
-        int dia = levels(root->left) + levels(root->right);
-        maxDia  = max(maxDia,dia);
-        helper(root->left,maxDia);
-        helper(root->right,maxDia);
+    int height(TreeNode* root, int &maxDia) {
+        if (root == NULL) return 0;
+        int leftHeight = height(root->left, maxDia);
+        int rightHeight = height(root->right, maxDia);
+        maxDia = max(maxDia, leftHeight + rightHeight);
+        return 1 + max(leftHeight, rightHeight);
     }
     int diameterOfBinaryTree(TreeNode* root) {
         int maxDia = 0;
-        helper(root,maxDia);
+        height(root, maxDia);
         return maxDia;
     }
 };
