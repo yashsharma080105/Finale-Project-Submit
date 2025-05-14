@@ -21,6 +21,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -226,6 +228,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -235,12 +238,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
