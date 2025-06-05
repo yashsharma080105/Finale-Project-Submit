@@ -86,6 +86,7 @@
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -174,6 +175,7 @@
 | [0155-min-stack](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
@@ -203,6 +205,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Sliding Window
 |  |
@@ -278,6 +281,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -302,6 +306,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -319,5 +324,6 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
