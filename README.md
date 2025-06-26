@@ -119,6 +119,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0142-linked-list-cycle-ii) |
@@ -169,6 +170,7 @@
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0145-binary-tree-postorder-traversal) |
@@ -185,6 +187,7 @@
 | [0098-validate-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0199-binary-tree-right-side-view) |
@@ -271,6 +274,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0199-binary-tree-right-side-view) |
@@ -298,6 +302,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0199-binary-tree-right-side-view) |
