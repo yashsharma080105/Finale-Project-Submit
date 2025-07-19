@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Two Pointers
@@ -80,6 +81,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
@@ -153,10 +155,12 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
@@ -338,4 +342,8 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
