@@ -33,6 +33,7 @@
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
@@ -97,6 +99,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
@@ -162,6 +165,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -336,6 +340,7 @@
 | [0098-validate-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0783-search-in-a-binary-search-tree) |
