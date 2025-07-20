@@ -38,6 +38,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
@@ -167,6 +169,7 @@
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -257,6 +261,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -364,8 +369,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
