@@ -102,6 +102,7 @@
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Tree
 |  |
 | ------- |
