@@ -17,6 +17,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0344-reverse-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3429-special-array-i](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/3429-special-array-i) |
 ## Matrix
 |  |
@@ -133,6 +136,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
 | ------- |
