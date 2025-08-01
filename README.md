@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -88,6 +89,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
