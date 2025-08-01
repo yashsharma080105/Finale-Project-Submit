@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
@@ -114,6 +115,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
