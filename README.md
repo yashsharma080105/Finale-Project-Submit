@@ -18,6 +18,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Array
 |  |
@@ -121,6 +123,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -290,6 +293,7 @@
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
 |  |
