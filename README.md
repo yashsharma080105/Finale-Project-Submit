@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0138-copy-list-with-random-pointer) |
@@ -30,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0257-binary-tree-paths) |
@@ -40,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
@@ -98,6 +101,7 @@
 | [0001-two-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
