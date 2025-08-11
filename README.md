@@ -147,6 +147,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -432,4 +434,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
