@@ -297,6 +297,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
