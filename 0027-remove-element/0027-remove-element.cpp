@@ -2,19 +2,13 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         int n = nums.size();
-        int count = 0;
-        vector<int> ans;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == val) continue;
-            else {
-                ans.push_back(nums[i]);
-                count++;
+        int k = 0;
+        for(int i=0;i<n;i++){
+            if(nums[i]!=val){
+                nums[k] = nums[i];
+                k++;
             }
         }
-        // Copy ans back to nums
-        for (int i = 0; i < count; i++) {
-            nums[i] = ans[i];
-        }
-        return count;
+        return k;
     }
 };
