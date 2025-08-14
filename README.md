@@ -13,6 +13,7 @@
 | [0141-linked-list-cycle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0295-find-median-from-data-stream) |
@@ -96,6 +98,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -117,6 +120,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
@@ -208,6 +212,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
