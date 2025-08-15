@@ -112,6 +112,7 @@
 | [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
@@ -308,6 +309,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
