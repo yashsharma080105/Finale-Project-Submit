@@ -6,9 +6,9 @@ public:
         int profit   =0 ;
         for(int i=1;i<n;i++){
             if(buyprice > prices[i]){
-                buyprice[i] = prices[i];
+                buyprice = prices[i];
             }
-            profit = max(profit,prices[i]-buyprice[i]);
+            profit = max(profit,prices[i]-buyprice);
         }
         return profit;
         
