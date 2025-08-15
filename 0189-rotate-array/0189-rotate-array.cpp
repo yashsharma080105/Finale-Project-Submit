@@ -1,15 +1,21 @@
 class Solution {
-public:
+public: 
+    void reve(int i,int j ,vector<int>& v){
+        while(i<=j){
+            int temp = v[i];
+            v[i] = v[j];
+            v[j] = temp;
+            i++;
+            j--;
+
+        }
+    }
+    
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> ans(n);
-
-        k = k % n; // Handle cases where k > n
-
-        for (int i = 0; i < n; i++) {
-            ans[(i + k) % n] = nums[i];
-        }
-
-        nums = ans; // Copy back to original vector
+        k = k%n;
+        reve(0,n-k-1,nums);
+        reve(n-k,n-1,nums);
+        reve(0,n-1,nums);
     }
 };
