@@ -112,6 +112,7 @@
 | [0031-next-permutation](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -154,6 +155,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
@@ -163,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
