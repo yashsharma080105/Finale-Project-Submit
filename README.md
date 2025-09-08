@@ -329,6 +329,7 @@
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1236-n-th-tribonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
@@ -344,6 +345,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
