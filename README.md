@@ -115,6 +115,7 @@
 | [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0084-largest-rectangle-in-histogram) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
@@ -335,6 +337,7 @@
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
