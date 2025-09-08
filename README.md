@@ -136,6 +136,7 @@
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
+| [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -335,6 +336,7 @@
 | [0118-pascals-triangle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 ## Trie
