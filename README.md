@@ -322,6 +322,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
