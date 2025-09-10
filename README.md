@@ -131,6 +131,7 @@
 | [0198-house-robber](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
@@ -344,6 +345,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
@@ -433,6 +435,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 ## Binary Search Tree
 |  |
 | ------- |
