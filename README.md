@@ -350,6 +350,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1236-n-th-tribonacci-number) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Trie
 |  |
 | ------- |
