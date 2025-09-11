@@ -139,6 +139,7 @@
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
@@ -300,6 +301,7 @@
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
@@ -447,6 +450,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0669-trim-a-binary-search-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -485,4 +489,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
