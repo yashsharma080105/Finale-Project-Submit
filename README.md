@@ -57,6 +57,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1829-maximum-units-on-a-truck](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1829-maximum-units-on-a-truck](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1829-maximum-units-on-a-truck) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
@@ -327,6 +329,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1829-maximum-units-on-a-truck](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1829-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
