@@ -54,6 +54,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -83,6 +84,7 @@
 | [0344-reverse-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+| [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
@@ -328,6 +331,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
+| [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1829-maximum-units-on-a-truck) |
 ## Math
