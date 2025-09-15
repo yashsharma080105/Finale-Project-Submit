@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0797-rabbits-in-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
@@ -148,6 +149,7 @@
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0797-rabbits-in-forest) |
 | [0860-design-circular-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
@@ -335,6 +337,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
+| [0797-rabbits-in-forest](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1829-maximum-units-on-a-truck) |
@@ -346,6 +349,7 @@
 | [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
+| [0797-rabbits-in-forest](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1236-n-th-tribonacci-number) |
