@@ -23,6 +23,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
+| [2300-construct-string-with-repeat-limit](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2300-construct-string-with-repeat-limit) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
@@ -39,6 +40,7 @@
 | [0344-reverse-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
+| [2300-construct-string-with-repeat-limit](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2300-construct-string-with-repeat-limit) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0387-first-unique-character-in-a-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2300-construct-string-with-repeat-limit) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Array
 |  |
@@ -249,6 +252,7 @@
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1127-last-stone-weight) |
+| [2300-construct-string-with-repeat-limit](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2300-construct-string-with-repeat-limit) |
 ## Merge Sort
 |  |
 | ------- |
@@ -334,6 +338,7 @@
 | [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1829-maximum-units-on-a-truck) |
+| [2300-construct-string-with-repeat-limit](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2300-construct-string-with-repeat-limit) |
 ## Math
 |  |
 | ------- |
