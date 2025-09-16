@@ -56,6 +56,7 @@
 | [0295-find-median-from-data-stream](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0917-boats-to-save-people) |
@@ -144,6 +145,7 @@
 | [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
@@ -337,6 +339,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0649-dota2-senate) |
 | [0797-rabbits-in-forest](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0797-rabbits-in-forest) |
@@ -369,6 +372,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
