@@ -44,7 +44,7 @@ public:
     }
 
     vector<vector<string>> solveNQueens(int n){
-        grid.resize(n, vector<char>(n, '.'));  // clear + initialize
+        grid.assign(n, vector<char>(n, '.'));  // clear + initialize
         result.clear();                        // clear old results
         f(0,n);
         return result;
