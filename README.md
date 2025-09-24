@@ -145,6 +145,7 @@
 | [0118-pascals-triangle](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0198-house-robber) |
@@ -417,6 +418,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Tree
 |  |
