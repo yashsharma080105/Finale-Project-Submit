@@ -318,6 +318,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Doubly-Linked List
 |  |
@@ -493,6 +494,7 @@
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -553,5 +555,6 @@
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
