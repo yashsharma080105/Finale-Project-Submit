@@ -1,11 +1,5 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        if(color == image[sr][sc]) return image;
-        dfs(image,sr,sc,image[sr][sc],color);
-        return image;
-        
-    }
 
     // The below function will do dfs from currRow,currCol to its neighbour containing intialcolor
     void dfs(vector<vector<int>>& image,int currRow,int currCol,int initialColor,int newColor){
@@ -25,4 +19,13 @@ public:
         dfs(image,currRow,currCol+1,initialColor,newColor);  // right
 
     }
+
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        if(color == image[sr][sc]) return image;
+        dfs(image,sr,sc,image[sr][sc],color);
+        return image;
+        
+    }
+
+    
 };
