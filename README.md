@@ -550,4 +550,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
