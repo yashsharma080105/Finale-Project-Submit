@@ -176,6 +176,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 | [1127-last-stone-weight](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
@@ -200,6 +201,7 @@
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+| [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -321,6 +323,7 @@
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
+| [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Doubly-Linked List
 |  |
@@ -498,6 +501,7 @@
 | [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
+| [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 ## Binary Search Tree
 |  |
 | ------- |
