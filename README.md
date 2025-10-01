@@ -151,6 +151,7 @@
 | [0169-majority-element](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0260-single-number-iii) |
@@ -196,6 +197,7 @@
 | [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
@@ -313,6 +315,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -497,6 +500,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
@@ -565,4 +569,8 @@
 | [0133-clone-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0133-clone-graph) |
 | [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1916-find-center-of-star-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
