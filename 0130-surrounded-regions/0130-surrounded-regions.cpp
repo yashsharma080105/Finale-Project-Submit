@@ -23,6 +23,7 @@ public:
             for(int d =0;d<4;d++){
                 int nr  = i+dir[d][0];
                 int nc = j+dir[d][1];
+                // this condition for the connected cell for boundary
                if(nr>=0 and nc>=0 and nr<n and nc<m and board[nr][nc] == 'O'){
                     board[nr][nc] = '#';
                     qu.push({nr,nc});
