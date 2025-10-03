@@ -176,6 +176,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1036-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
@@ -205,6 +206,7 @@
 | [0566-reshape-the-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 | [1677-matrix-diagonal-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2411-spiral-matrix-iv) |
@@ -509,6 +511,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 ## Binary Search Tree
 |  |
