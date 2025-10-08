@@ -1,52 +1,33 @@
 class Solution {
 public:
-
-    vector<list<int>> graph;
-
-    vector<int> topoBFS(int v){
-        vector<int> ans;
-        vector<int> indegree(v,0);
-        for(int i=0;i<v;i++){
-            for(auto neighbour : graph[i]){
-                indegree[neighbour]++;
-            }
+    vector<int> findOrder(int num, vector<vector<int>>& prerequisites) {
+        vector<vector<int>>graphs(num,vector<int>());
+        vector<int>indegree(num);
+        for(vector<int>&ans : prerequisites){
+            graphs[ans[1]].push_back(ans[0]);
+            indegree[ans[0]]++;
         }
-        queue<int> qu;
-        unordered_set<int> vis;
-        for(int i=0;i<v;i++){
-            if(indegree[i] == 0){
-                qu.push(i);
-                vis.insert(i);
-            }
+        queue<int>zero;
+        for(int i=0;i<num;i++){
+            if(indegree[i] == 0) zero.push(i);
         }
-        while(not qu.empty()){
-            int node = qu.front();
-            ans.push_back(node);
-            qu.pop();
-            for(auto neighbour: graph[node]){
-                if(not vis.count(neighbour)){
-                    indegree[neighbour]--;
-                    if(indegree[neighbour] == 0){
-                        qu.push(neighbour);
-                        vis.insert(neighbour);
-                    }
+        vector<int>ans;
+        int visited = 0;
+        while(!zero.empty()){
+            int u = zero.front();
+            zero.pop();
+            ans.push_back(u);
+            visited++;
+            for(int v: graphs[u]){
+                indegree[v]--;
+                if(indegree[v] == 0){
+                    zero.push(v);
                 }
             }
         }
-        if(vis.size() == v) return ans;
-        else return {};
-
-    }
-    vector<int> findOrder(int num, vector<vector<int>>& prerequisites) {
-        graph.resize(num);
-        for(auto ans : prerequisites){
-            graph[ans[1]].push_back(ans[0]);
-
-        }
-
-        return topoBFS(num);
-
-
-        
+        if(visited == num){
+            return ans;
+        } 
+        return {};
     }
 };
