@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0797-rabbits-in-forest) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1319-unique-number-of-occurrences](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/2215-finding-3-digit-even-numbers) |
@@ -337,6 +338,7 @@
 | [0733-flood-fill](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1104-coloring-a-border](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1104-coloring-a-border) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Doubly-Linked List
@@ -589,12 +591,14 @@
 | [0133-clone-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0210-course-schedule-ii) |
 | [0871-keys-and-rooms](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1916-find-center-of-star-graph](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/1916-find-center-of-star-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
