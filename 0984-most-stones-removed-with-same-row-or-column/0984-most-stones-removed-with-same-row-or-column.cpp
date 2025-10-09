@@ -20,6 +20,8 @@ public:
         vector<bool> visited(n,0);
         int result = 0;
         for(int i=0;i<n;i++){
+            // skip if already part of a connected group
+
             if(visited[i]) {
                 continue;
             }
