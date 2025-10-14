@@ -130,6 +130,7 @@
 | [0039-combination-sum](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0079-word-search) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yashsharma080105/Finale-Project-Submit/tree/master/0258-add-digits) |
